@@ -7,10 +7,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "...",
-    "stripe": "...",
-    "cors": "...",
-    "dotenv": "..."
+    "express": "^5.2.1",
+    "stripe": "^20.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3"
   }
 }
 
